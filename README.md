@@ -8,9 +8,9 @@
   
 ## Currently working with 👨🏻‍💻
 
-- 🦄 Frontend using `Vue 3` with `Typescript` and own components library built on top of Vuetify, store built with `Pinia`
-- 🧪 Frontend testing with `testing-library` and `jest`for unit testing, and `cypress` for e2e
-- 💻 Backend Rest API built with `Kotlin`
+- 🦄 Frontend using `Vue 3` with `Typescript`, store built with `Pinia`
+- 🧪 Frontend unit testing with `testing-library` and `vitest`, and `cypress` for E2E
+- 💻 Backend Rest API built with `Spring Boot`
 - 🤵🏻‍♂️ Pipelines based on `Jenkins`.
 - 🚢 Images built with `Docker` and deployed with  `Kubernetes`.
 
@@ -56,7 +56,6 @@
 
 ## About me 🙋🏻‍♂️
 
-- 📚 I'm constantly learning about web development
 - 🎬 Cinephile
 - ✈ Traveler
 - 📍 Spain
