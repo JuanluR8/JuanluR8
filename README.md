@@ -9,10 +9,10 @@
 ## Currently working with 👨🏻‍💻
 
 - 🦄 Frontend using `Vue 3` with `Typescript`, store built with `Pinia`
-- 🧪 Frontend unit testing with `testing-library` and `vitest`, and `cypress` for E2E
+- 🧪 Frontend testing:
+  - unit: `testing-library` and `vitest`
+  - e2e: `cypress`
 - 💻 Backend Rest API built with `Spring Boot`
-- 🤵🏻‍♂️ Pipelines based on `Jenkins`.
-- 🚢 Images built with `Docker` and deployed with  `Kubernetes`.
 
 ---
 
@@ -37,7 +37,6 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-4B7B5B?logo=cypress&logoColor=white&style=for-the-badge)
 
 ![Vite](https://img.shields.io/badge/-Vite-7F00FF?logo=vite&logoColor=white&style=for-the-badge)
-![Webpack](https://img.shields.io/badge/-webpack-8DD6F9?logo=webpack&logoColor=101010&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/-jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
